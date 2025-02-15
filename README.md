@@ -14,9 +14,7 @@
 </p>
 
 <p align="center">
-  Follow Me! :) &nbsp;&nbsp; <a href="https://www.linkedin.com/in/mtugurel/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ifmai" height="20" width="30" />
+  :) &nbsp;&nbsp; <a href="https://www.linkedin.com/in/mtugurel/" target="blank">
   </a>
-<img src="https://i.pinimg.com/originals/d3/6c/ec/d36cece974faf2eb660a0f688550035e.gif" width="75" align="center">
 </p>
 </br>
